@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MadLevel1Task2</string>
+    <string name="title">Conjunction (AND)</string>
+    <string name="submit">SUBMIT</string>
+    <string name="tableA">A</string>
+    <string name="tableB">B</string>
+    <string name="tableT">T</string>
+    <string name="tableF">F</string>
+    <string name="tableAB">A ^ B</string>
 </resources>
