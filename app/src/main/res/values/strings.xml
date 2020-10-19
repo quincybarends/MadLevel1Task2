@@ -7,4 +7,5 @@
     <string name="tableT">T</string>
     <string name="tableF">F</string>
     <string name="tableAB">A ^ B</string>
+    <string name="correct_answers">%d answers are correct</string>
 </resources>
